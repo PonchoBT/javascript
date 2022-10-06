@@ -1,16 +1,7 @@
-console.log(30+40);
-console.log(30-40);
-console.log(30*40);
-console.log(30/40);
+console.log(typeof 23);
 
-const addition = 100 + 100;
-console.log(addition);
+console.log(typeof 'hello');
 
-const subteraction = 100 - 100;
-console.log(subteraction);
+console.log(typeof true);
 
-const multiplication = 100 * 100;
-console.log(multiplication);
-
-const division = 100 / 100;
-console.log(division);
+console.log(typeof null);
