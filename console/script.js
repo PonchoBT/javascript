@@ -6,3 +6,7 @@ let a = 40,
     
 console.log("Suma:", b + d);
 console.log(x);
+console.warn("warn");
+console.error("error");
+console.log({a});
+console.log("%c Hola", "color:blue; font-weight:bold");
